@@ -19,6 +19,20 @@ By using a warm color (orange yellow) for the app logo, I want to emphasize a po
 
 ##### Landing Page 
 
+The landing page (above the fold) consists of 4 components.  
+
+1. The name of the company and the app logo. 
+
+2. The sections of the landing page - Features, Pricing, About Us and Get The App. 
+
+3. The tagline. 
+
+4. The "Get The App" button. 
+
+With these 4 components, I hope to grab visitors' attention when they first come to the website and encourage to download the app by placing a button at the center of the webpage. Aligning with the color of the app logo, I used orange yellow and white for the landing page as well. 
+
+Image source: Entrepreneur
+
 ##### App UI mockups   
 
 If you would like to provide feedback on some of the designs or have any questions, feel free to create an issue! 
